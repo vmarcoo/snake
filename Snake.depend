@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1718069534 source:c:\users\marco\onedrive\Área de trabalho\snake\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<cstdlib>
+	<ctime>
+	<chrono>
+	<thread>
+	<limits>
+	<iomanip>
+	<fstream>
+	<random>
+	<vector>
+	<algorithm>
+	<mmsystem.h>
+
